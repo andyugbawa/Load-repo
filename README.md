@@ -1,3 +1,3 @@
 #Demo
 
-some lessons to Learn.
+some lessons to be Learnt.
